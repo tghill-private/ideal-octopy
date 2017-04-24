@@ -1,0 +1,35 @@
+This is a list of the full names and state as used in the EPA
+AMPD database for the sources we're interested in
+
+Short Name          AMPD Full Name                  State short form
+Amos                "John E Amos"                       wv
+Baldwin             "Baldwin Energy Complex"            il
+Belews              "Belews Creek"                      nc
+Bowen               "Bowen"                             ga        
+Bridger             "Jim Bridger"                       wy
+Colstrip            "Colstrip"                          mt
+Conemaugh           "Conemaugh"                         pa
+Crystal             "Crystal River"                     fl
+Cumberland          "Cumberland"                        tn
+Gavin               "Gen J M Gavin"                     oh
+Ghent               "Ghent"                             ky
+Gibson              "Gibson"                            in    
+Harrison            "Harrison Power Station"            wv      
+Intermountain       "Intermountain"                     ut
+Kyger               "Kyger Creek"                       oh
+Labadie             "Labadie"                           mo
+Laramie             "Laramie River"                     wy
+Mansfield           "Bruce Mansfield"                   pa
+Martin              "Martin Lake"                       tx
+Miller              "James H Miller Jr"                 al
+Monroe              "Monroe"                            mi
+Mountaineer         "Mountaineer"                       oh
+Navajo              "Navajo Generating Station"         az
+Oak                 "Oak Grove"                         tx
+Paradise            "Paradise"                          ky
+Parish              "W A Parish"                        tx
+Prairie             "Prairie State Generating Station"  il
+Rockport            "Rockport"                          in
+Scherer             "Scherer"                           ga
+Sherburne           "Sherburne County"                  mn
+Westar              "Jeffrey Energy Center"             ks
