@@ -1,5 +1,5 @@
 Cython==0.25.2
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 MechanicalSoup==0.6.0
 Pydap==3.2.1
